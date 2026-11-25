@@ -6,7 +6,7 @@ Delhi NCR, 2024 · A MySQL and Power BI case study
 
 ## Overview
 
-Only 62% of the 150,000 ride bookings in this dataset end in a completed ride. I wanted to find out why the rest fail and what a business should look at first.
+Only 62% of the 150,000 ride bookings in this dataset end in a completed ride. In this case study I wanted to find out why the rest of 38% failed and what a business should look at first.
 
 **Tools:** MySQL (cleaning and analysis) · Power BI and DAX (dashboard) ·
 
