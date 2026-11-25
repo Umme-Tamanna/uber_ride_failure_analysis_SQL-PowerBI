@@ -2,7 +2,7 @@
 
 Delhi NCR, 2024 · A MySQL and Power BI case study
 
-![Dashboard](images/dashboard.png)
+![Dashboard](uber_rides_analysis.png)
 
 ## Overview
 
