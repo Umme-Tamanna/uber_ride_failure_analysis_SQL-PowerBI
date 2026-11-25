@@ -96,5 +96,5 @@ I left "worst pickup areas", "business growth per month", "payment methods", etc
 ```
 
 ---
-**Author:** [Umme Mahbuba Tamanna]([https://github.com](https://github.com/Umme-Tamanna)) · [LinkedIn](www.linkedin.com/in/umme-mahbuba-tamanna) · [ummemahbuba30@gmail.com]
+Author: [Umme Mahbuba Tamanna]([https://github.com](https://github.com/Umme-Tamanna)) · [LinkedIn](www.linkedin.com/in/umme-mahbuba-tamanna) · [ummemahbuba30@gmail.com]
 
