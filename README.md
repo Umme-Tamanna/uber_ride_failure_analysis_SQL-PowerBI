@@ -93,14 +93,6 @@ I left "worst pickup areas", "business growth per month", "payment methods", etc
 - **There is no cost, margin or driver-supply data**, so the impact of any recommendation can't be sized properly.
 
 
-```
-
----
-<div align="center">
-
-Author:  [Umme Mahbuba Tamanna](https://github.com/Umme-Tamanna) · [LinkedIn](https://www.linkedin.com/in/umme-mahbuba-tamanna) · [Email](ummemahbuba30@gmail.com)
-
-</div>
 
 Author: [Umme Mahbuba Tamanna](https://github.com/Umme-Tamanna) · [LinkedIn](https://www.linkedin.com/in/umme-mahbuba-tamanna) · [Email](ummemahbuba30@gmail.com)
 
